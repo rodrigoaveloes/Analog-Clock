@@ -1,5 +1,5 @@
 # Analog Clock
- one more simple project fast for exercised , i did use Html Css and manipulate both with Js 
+ A ideia principal é treinar css e dom com js, eu usei Html e Css ambos manipulei com Js 
  
   ### For acess the project click here👉<a href="https://rodrigoaveloes.github.io/Analog-Clock/">Analog-clock by:Rodrigo Avelões<a/>
  
